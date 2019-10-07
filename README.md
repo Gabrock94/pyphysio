@@ -33,3 +33,7 @@ If you use `pyphysio` for research, please cite us:
 
 "Bizzego et al. (2019) 'pyphysio: A physiological signal processing library for data science approaches in physiology', *SoftwareX*"
 <https://www.sciencedirect.com/science/article/pii/S2352711019301839>
+
+### Codemotion's Capsule
+A capsule on Codemotion is available at the followin page:
+<https://codeocean.com/capsule/2616608/tree/v1>
